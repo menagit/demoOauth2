@@ -43,4 +43,4 @@ curl -v "http://localhost:8080/api/basic/hello?name=World" \
 ```
 
 ## Related Blog Post
-[Securing a REST API with OAuth2 and JWT in Spring Boot 4](#) — Medium
+[Securing a REST API with OAuth2 and JWT in Spring Boot 4](https://emenaa.medium.com/securing-a-rest-api-with-oauth2-and-jwt-in-spring-boot-4-416e68b45a69) — Medium
